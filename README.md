@@ -121,7 +121,7 @@ Aspiring Artificial Intelligence and Robotics Engineering graduate with hands-on
 
 - *Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow* by Geron Aurelien  
 - *Practical Statistics for Data Scientists* by Peter Bruce, Andrew Bruce, and Peter Gedeck
-- *Hand-on Large Language Model:
+- *Hand-on Large Language Model*
 
 ---
 
