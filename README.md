@@ -1,4 +1,4 @@
-# Hi there, I'm AlRashid Fathi Jaber 👋
+# Hi there, I'm AlRashid Jaber 👋
 
 ### Machine Learning Engineer | AI Enthusiast | Robotics Explorer
 
