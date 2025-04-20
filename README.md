@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AlRashid AlKiswane</h1>
-<h3 align="center">🚀 Machine Learning Engineer | AI Researcher | MLOps Practitioner | Python Developer</h3>
+<h3 align="center">🚀 Machine Learning Engineer | AI Researcher | MLOps Practitioner | Python Developer | LLMs Practitioner</h3>
 <p align="center">
   <strong>he/him</strong> • Passionate about building intelligent systems, automating workflows, and deploying real-world AI solutions.
 </p>
