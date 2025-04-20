@@ -70,7 +70,7 @@
 <ul>
   <li>📧 Email: <a href="mailto:alrashid.japer@gmail.com">alrashid.japer@gmail.com</a></li>
   <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/rashidkiswani/">/in/rashidkiswani</a></li>
-  <li>💻 GitHub: <a href="https://github.com/AlRashidIssa">AlRashidIssa</a></li>
+  <li>💻 GitHub: <a href="https://github.com/AlRashid-AlKiswane/AlRashid-Al-Kiswane?tab=readme-ov-file">AlRashid Al-Kiswane</a></li>
   <li>📄 Resume: <a href="https://github.com/AlRashidIssa">Click to View</a></li>
 </ul>
 
