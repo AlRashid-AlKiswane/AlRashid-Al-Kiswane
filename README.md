@@ -11,7 +11,6 @@
   <li>🧠 I love working on LLMs, NLP, and computer vision.</li>
   <li>⚙️ Skilled in Python, PyTorch, TensorFlow, FastAPI, Docker, and LangChain.</li>
   <li>🌍 Based in Amman, Jordan.</li>
-  <li>🎓 Diploma in Artificial Intelligence and Robotics Engineering (2025)</li>
   <li>🏆 Coursera Certified: Deep Learning, TensorFlow Developer, and Generative AI with LLMs</li>
 </ul>
 
