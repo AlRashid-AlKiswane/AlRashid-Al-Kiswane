@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1zISDDWIipZU-dFcHNeCwmlVyfWp41nrL/view?usp=sharing" width="50%"/>
+  <img src="https://github.com/AlRashid-AlKiswane/AlRashid-Al-Kiswane/blob/main/assets/alrashid.png" width="50%"/>
 </p>
 
 ---
