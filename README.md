@@ -4,6 +4,10 @@
   <strong>he/him</strong> • Passionate about building intelligent systems, automating workflows, and deploying real-world AI solutions.
 </p>
 
+<p align="center">
+  <img src="https://drive.google.com/file/d/1zISDDWIipZU-dFcHNeCwmlVyfWp41nrL/view?usp=sharing" width="50%"/>
+</p>
+
 ---
 
 <h2>📍 About Me</h2>
