@@ -68,7 +68,7 @@ Currently, I work as an **LLMOps Engineer** at **Tessafold LLC** and **LMRT**, w
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **Frontend**
-![HTML, CSS, JS](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML, CSS, JS]
 ---
 
 ## 🚀 Featured Projects
