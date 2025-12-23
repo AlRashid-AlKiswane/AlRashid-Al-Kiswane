@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AlRashid AlKiswane</h1>
-<h3 align="center">🚀 Senior Full Stack AI Engineer | LLMOps Specialist | RAG Architect</h3>
+<h3 align="center">🚀 Full Stack AI Engineer | LLMOps Specialist | RAG Architect</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rashidkiswani/">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <strong>he/him</strong> • 🌍 Based in Amman, Jordan
+  <strong>he/him</strong> • 🌍 Based in Amman, Jordan & Damascus, Syria
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Senior AI Engineer** spanning the gap between Research and Production. I don't just train models; I build **End-to-End AI Ecosystems**.
+I am a **AI Engineer** spanning the gap between Research and Production. I don't just train models; I build **End-to-End AI Ecosystems**.
 
 Currently, I work as an **LLMOps Engineer** at **Tessafold LLC** and **LMRT**, where I design **SmartRAG architectures**, orchestrate **LLM microservices** on Kubernetes, and build autonomous agents for the legal and fintech sectors.
 
@@ -64,14 +64,11 @@ Currently, I work as an **LLMOps Engineer** at **Tessafold LLC** and **LMRT**, w
 
 **MLOps & Cloud**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-
+![HTML, CSS, JS](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ---
 
 ## 🚀 Featured Projects
